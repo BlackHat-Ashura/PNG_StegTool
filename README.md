@@ -3,8 +3,8 @@
 
 ### Hide.py
 
-Usage: python Hide.py -c <cover image.png> -m <plain text message file> -o <name of output image>
+Usage: python Hide.py -c "cover image.png" -m "plain text message file" -o "name of output image"
 
 ### Unhide.py
 
-Usage: python Unhide.py -e <image.png to extract message> -o <name of output file to extract message>
+Usage: python Unhide.py -e "image.png to extract message" -o "name of output file to extract message"
